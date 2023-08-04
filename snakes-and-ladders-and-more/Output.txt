@@ -1,0 +1,169 @@
+Please input board size of the snake 🐍 and ladder 🪜 game:
+100
+Please input Snakes size of the snake 🐍 and ladder 🪜 game:
+9
+62 5
+33 61
+49 9
+88 16
+41 20
+56 53
+98 64
+93 73
+95 75
+Please input Ladders size of the snake 🐍 and ladder 🪜 game:
+8
+2 37
+27 46
+10 32
+51 68
+61 79
+65 84
+71 91
+81 100
+Please input Crocodile size of the snake 🐍 and ladder 🪜 game:
+2
+45
+21
+Please input Mine size of the snake 🐍 and ladder 🪜 game:
+1
+50
+Please input player size of the snake 🐍 and ladder 🪜 game:
+2
+Guarav
+Sagar
+Please input movement strategy of the snake 🐍 and ladder 🪜 game:
+SUM
+Please input Dice size of the snake 🐍 and ladder 🪜 game:
+1
+Guarav rolled a 2 and moved from 0 to 2
+Wow..Guarav climbed a ladder at 2 and moved up to 37
+Sagar rolled a 3 and moved from 0 to 3
+Guarav rolled a 6 and moved from 37 to 43
+Sagar rolled a 4 and moved from 3 to 7
+Guarav rolled a 1 and moved from 43 to 44
+Sagar rolled a 2 and moved from 7 to 9
+Guarav rolled a 3 and moved from 44 to 47
+Sagar rolled a 4 and moved from 9 to 13
+Guarav rolled a 2 and moved from 47 to 49
+Oh no..Guarav got eaten by the snake at 49 and moved down to 9
+Sagar rolled a 4 and moved from 13 to 17
+Guarav rolled a 6 and moved from 9 to 15
+Sagar rolled a 3 and moved from 17 to 20
+Guarav rolled a 2 and moved from 15 to 17
+Sagar rolled a 1 and moved from 20 to 21
+Oh no..Sagar got eaten by the crocodile at 21 and moved down to 16
+Guarav rolled a 4 and moved from 17 to 21
+Oh no..Guarav got eaten by the crocodile at 21 and moved down to 16
+Oh no..Guarav kicked Sagar out of the place at 16, Sagar will start from beginning
+Sagar rolled a 1 and moved from 0 to 1
+Guarav rolled a 3 and moved from 16 to 19
+Sagar rolled a 3 and moved from 1 to 4
+Guarav rolled a 6 and moved from 19 to 25
+Sagar rolled a 2 and moved from 4 to 6
+Guarav rolled a 2 and moved from 25 to 27
+Wow..Guarav climbed a ladder at 27 and moved up to 46
+Sagar rolled a 4 and moved from 6 to 10
+Wow..Sagar climbed a ladder at 10 and moved up to 32
+Guarav rolled a 3 and moved from 46 to 49
+Oh no..Guarav got eaten by the snake at 49 and moved down to 9
+Sagar rolled a 4 and moved from 32 to 36
+Guarav rolled a 4 and moved from 9 to 13
+Sagar rolled a 3 and moved from 36 to 39
+Guarav rolled a 1 and moved from 13 to 14
+Sagar rolled a 3 and moved from 39 to 42
+Guarav rolled a 1 and moved from 14 to 15
+Sagar rolled a 6 and moved from 42 to 48
+Guarav rolled a 5 and moved from 15 to 20
+Sagar rolled a 6 and moved from 48 to 54
+Guarav rolled a 4 and moved from 20 to 24
+Sagar rolled a 5 and moved from 54 to 59
+Guarav rolled a 6 and moved from 24 to 30
+Sagar rolled a 1 and moved from 59 to 60
+Guarav rolled a 4 and moved from 30 to 34
+Sagar rolled a 2 and moved from 60 to 62
+Oh no..Sagar got eaten by the snake at 62 and moved down to 5
+Guarav rolled a 1 and moved from 34 to 35
+Sagar rolled a 5 and moved from 5 to 10
+Wow..Sagar climbed a ladder at 10 and moved up to 32
+Guarav rolled a 4 and moved from 35 to 39
+Sagar rolled a 6 and moved from 32 to 38
+Guarav rolled a 5 and moved from 39 to 44
+Sagar rolled a 2 and moved from 38 to 40
+Guarav rolled a 3 and moved from 44 to 47
+Sagar rolled a 2 and moved from 40 to 42
+Guarav rolled a 2 and moved from 47 to 49
+Oh no..Guarav got eaten by the snake at 49 and moved down to 9
+Sagar rolled a 1 and moved from 42 to 43
+Guarav rolled a 1 and moved from 9 to 10
+Wow..Guarav climbed a ladder at 10 and moved up to 32
+Sagar rolled a 2 and moved from 43 to 45
+Oh no..Sagar got eaten by the crocodile at 45 and moved down to 40
+Guarav rolled a 6 and moved from 32 to 38
+Sagar rolled a 6 and moved from 40 to 46
+Guarav rolled a 3 and moved from 38 to 41
+Oh no..Guarav got eaten by the snake at 41 and moved down to 20
+Sagar rolled a 4 and moved from 46 to 50
+Guarav rolled a 3 and moved from 20 to 23
+Sagar rolled a 4 and moved from 50 to 54
+Guarav rolled a 1 and moved from 23 to 24
+Sagar rolled a 4 and moved from 54 to 58
+Guarav rolled a 5 and moved from 24 to 29
+Sagar rolled a 1 and moved from 58 to 59
+Guarav rolled a 3 and moved from 29 to 32
+Sagar rolled a 3 and moved from 59 to 62
+Oh no..Sagar got eaten by the snake at 62 and moved down to 5
+Guarav rolled a 2 and moved from 32 to 34
+Sagar rolled a 1 and moved from 5 to 6
+Guarav rolled a 1 and moved from 34 to 35
+Sagar rolled a 3 and moved from 6 to 9
+Guarav rolled a 3 and moved from 35 to 38
+Sagar rolled a 3 and moved from 9 to 12
+Guarav rolled a 2 and moved from 38 to 40
+Sagar rolled a 5 and moved from 12 to 17
+Guarav rolled a 6 and moved from 40 to 46
+Sagar rolled a 2 and moved from 17 to 19
+Guarav rolled a 4 and moved from 46 to 50
+Sagar rolled a 2 and moved from 19 to 21
+Oh no..Sagar got eaten by the crocodile at 21 and moved down to 16
+Guarav rolled a 6 and moved from 50 to 56
+Oh no..Guarav got eaten by the snake at 56 and moved down to 53
+Sagar rolled a 4 and moved from 16 to 20
+Guarav rolled a 4 and moved from 53 to 57
+Sagar rolled a 4 and moved from 20 to 24
+Guarav rolled a 4 and moved from 57 to 61
+Wow..Guarav climbed a ladder at 61 and moved up to 79
+Sagar rolled a 4 and moved from 24 to 28
+Guarav rolled a 5 and moved from 79 to 84
+Sagar rolled a 1 and moved from 28 to 29
+Guarav rolled a 6 and moved from 84 to 90
+Sagar rolled a 5 and moved from 29 to 34
+Guarav rolled a 6 and moved from 90 to 96
+Sagar rolled a 2 and moved from 34 to 36
+Guarav rolled a 1 and moved from 96 to 97
+Sagar rolled a 4 and moved from 36 to 40
+Guarav rolled a 5 but couldn't move as it goes out of board. current position: 97
+Sagar rolled a 6 and moved from 40 to 46
+Guarav rolled a 4 but couldn't move as it goes out of board. current position: 97
+Sagar rolled a 2 and moved from 46 to 48
+Guarav rolled a 6 but couldn't move as it goes out of board. current position: 97
+Sagar rolled a 2 and moved from 48 to 50
+Guarav rolled a 1 and moved from 97 to 98
+Oh no..Guarav got eaten by the snake at 98 and moved down to 64
+Sagar rolled a 1 and moved from 50 to 51
+Wow..Sagar climbed a ladder at 51 and moved up to 68
+Guarav rolled a 6 and moved from 64 to 70
+Sagar rolled a 5 and moved from 68 to 73
+Guarav rolled a 3 and moved from 70 to 73
+Oh no..Guarav kicked Sagar out of the place at 73, Sagar will start from beginning
+Sagar rolled a 3 and moved from 0 to 3
+Guarav rolled a 2 and moved from 73 to 75
+Sagar rolled a 4 and moved from 3 to 7
+Guarav rolled a 2 and moved from 75 to 77
+Sagar rolled a 6 and moved from 7 to 13
+Guarav rolled a 3 and moved from 77 to 80
+Sagar rolled a 1 and moved from 13 to 14
+Guarav rolled a 1 and moved from 80 to 81
+Wow..Guarav climbed a ladder at 81 and moved up to 100
+Sagar rolled a 2 and moved from 14 to 16
+Congratulations Guarav you have won the snake and ladder game!!!
